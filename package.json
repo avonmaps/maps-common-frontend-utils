@@ -1,0 +1,20 @@
+{
+    "name": "@avon-maps/common-frontend-utils",
+    "version": "1.0.0",
+    "description": "A collection of common utils that can be used by multiple frontend projects",
+    "main": "src/index.ts",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/avonmaps/maps-common-frontend-utils.git"
+    },
+    "publishConfig": {
+        "registry": "https://nexus.blackbelt.cloud/repository/npm-avon-maps/"
+    },
+    "author": "BlackBelt",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/avonmaps/maps-common-frontend-utils/issues"
+    },
+    "homepage": "https://github.com/avonmaps/maps-common-frontend-utils#readme"
+}
