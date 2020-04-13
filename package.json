@@ -1,6 +1,6 @@
 {
     "name": "@avon-maps/common-frontend-utils",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "A collection of common utils that can be used by multiple frontend projects",
     "main": "src/index.ts",
     "scripts": {},
