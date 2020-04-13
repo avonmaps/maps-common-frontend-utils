@@ -16,5 +16,12 @@
     "bugs": {
         "url": "https://github.com/avonmaps/maps-common-frontend-utils/issues"
     },
-    "homepage": "https://github.com/avonmaps/maps-common-frontend-utils#readme"
+    "homepage": "https://github.com/avonmaps/maps-common-frontend-utils#readme",
+    "prettier": "@avon-maps/prettier-config",
+    "eslintConfig": {
+        "extends": "@avon-maps/eslint-config-avon-maps"
+    },
+    "devDependencies": {
+        "@avon-maps/eslint-config-avon-maps": "1.0.3"
+    }
 }
